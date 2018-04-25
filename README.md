@@ -62,3 +62,4 @@ It's not all sunshine and rainbows though — sometimes the underlying mechanism
 
 ## Resources
 - [Difference between declarative and imperative in React.js?](http://stackoverflow.com/questions/33655534/difference-between-declarative-and-imperative-in-react-js)
+<p data-visibility='hidden'>PHRG React Declarative Programming</p>
